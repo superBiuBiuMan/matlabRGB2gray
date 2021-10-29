@@ -11,3 +11,6 @@ Matlab之非库函数实现将彩色图转灰度图(代码有注释)
 
 # 最大值原理图
 ![image](https://github.com/1464815392/matlabRGB2gray/blob/main/%E6%9C%80%E5%A4%A7%E5%80%BC%E6%B3%95.png)
+
+# 效果图
+![image](https://raw.githubusercontent.com/1464815392/matlabRGB2gray/main/rgb%E6%95%88%E6%9E%9C%E5%9B%BE.png)
