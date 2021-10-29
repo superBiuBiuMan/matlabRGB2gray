@@ -1,0 +1,2 @@
+# matlabRGB2gray
+Matlab之非库函数实现将彩色图转灰度图
